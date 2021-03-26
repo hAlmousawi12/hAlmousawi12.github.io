@@ -1,0 +1,16 @@
+.copyright {
+  color: #8e8ecc;
+  font-size: small;
+}
+
+.copyright:hover {
+  color: #7272ad;
+}
+
+.copyright-container {
+  width: 100%;
+  text-align: center;
+  background-color: #06021d;
+  padding: 2rem 0;
+  position: relative;
+}
